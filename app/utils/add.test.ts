@@ -5,5 +5,5 @@ test("Test functions that import server-only", () => {
 });
 
 test("Test functions that import server-only", () => {
-  expect(multi(2, 2)).toBe(4);
+  expect(multi(2, 2)).toBe(5);
 });
